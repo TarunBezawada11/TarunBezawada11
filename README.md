@@ -1,14 +1,4 @@
-## Hi there 👋
 
-<!--
-**TarunBezawada11/TarunBezawada11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
 # 👋 Hi, I'm Tarun<br><br>🎓 I'm a Master's student in **Artificial Intelligence and Machine Learning** at the **University of Limerick**.  <br>💡 Currently working on my thesis project: **JobSenseAI**, an AI-powered resume matching system.  <br>📊 I'm passionate about **Data Engineering** and **AI/ML**.  <br><br>> “Everything is impossible until someone does it.” — **Batman**<br>
 
 
