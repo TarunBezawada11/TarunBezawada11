@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tarun
+# 👋 Hi, I'm Tarun Bezawada
 
 🎓 I'm a Master's student in **Artificial Intelligence and Machine Learning** at the **University of Limerick**.  
 💡 Currently working on my thesis project: **JobSenseAI**, an AI-powered resume matching system.  
